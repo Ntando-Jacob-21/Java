@@ -1,3 +1,1 @@
-In the Java_Projects conatains all my Java projects I did as practices and learning journey. 
-1. My Profile
-2. Bank Profile
+This repository contains all my java projects and notes sorted in an organized folders and subfolders. It's part of my learning journey. 
